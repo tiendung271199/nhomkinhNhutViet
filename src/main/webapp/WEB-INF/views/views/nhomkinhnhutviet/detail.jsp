@@ -4,12 +4,7 @@
 <div id="work_single_banner" class="bg-light w-100">
     <div class="container-fluid text-light d-flex justify-content-center align-items-center border-0 rounded-0 p-0 py-5">
         <div class="banner-content col-lg-8 m-lg-auto text-center py-5 px-3">
-<<<<<<< HEAD
             <h1 class="banner-heading h2 pb-5 typo-space-line-center">Digital Marketing</h1>
-=======
-            <h1 class="banner-heading h2 pb-5 typo-space-line-center">Digital Marketing</<h1>
-            </h1>
->>>>>>> 0a3777e43ec731f00095092d6b7ee930eb3102cf
             <h3 class="h4 pb-2 light-300">Voluptatem accusantium doloremque</h3>
             <p class="banner-footer light-300">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -189,11 +184,8 @@
     <div class="row justify-content-center">
         <div class="col-lg-8 pt-4 pb-4">
             <div class="ratio ratio-16x9">
-<<<<<<< HEAD
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1z--ZRS5x5U"></iframe>
-=======
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1z--ZRS5x5U" allowfullscreen></iframe>
->>>>>>> 0a3777e43ec731f00095092d6b7ee930eb3102cf
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1z--ZRS5x5U"></iframe>
             </div>
         </div>
     </div>
@@ -422,8 +414,5 @@
                 </div>
             </div>
         </div>
-<<<<<<< HEAD
     </div>
-=======
->>>>>>> 0a3777e43ec731f00095092d6b7ee930eb3102cf
 </article>

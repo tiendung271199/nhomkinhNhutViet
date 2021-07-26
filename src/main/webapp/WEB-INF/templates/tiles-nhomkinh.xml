@@ -18,7 +18,6 @@
     <put-attribute name="body" value="/WEB-INF/views/views/nhomkinhnhutviet/news.jsp" />
   </definition>
 
-<<<<<<< HEAD
   <definition name="nhomkinhnhutviet.news-detail" extends="template.nhomkinhnhutviet" >
     <put-attribute name="body" value="/WEB-INF/views/views/nhomkinhnhutviet/news-detail.jsp" />
   </definition>
@@ -27,8 +26,6 @@
     <put-attribute name="body" value="/WEB-INF/views/views/nhomkinhnhutviet/product.jsp" />
   </definition>
 
-=======
->>>>>>> 0a3777e43ec731f00095092d6b7ee930eb3102cf
   <definition name="nhomkinhnhutviet.detail" extends="template.nhomkinhnhutviet" >
     <put-attribute name="body" value="/WEB-INF/views/views/nhomkinhnhutviet/detail.jsp" />
   </definition>
