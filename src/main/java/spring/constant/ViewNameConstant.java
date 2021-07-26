@@ -4,6 +4,8 @@ public class ViewNameConstant {
 	
 	public static final String INDEX = "nhomkinhnhutviet.index";
 	public static final String NEWS = "nhomkinhnhutviet.news";
+	public static final String NEWS_DETAIL = "nhomkinhnhutviet.news-detail";
+	public static final String PRODUCT = "nhomkinhnhutviet.product";
 	public static final String DETAIL = "nhomkinhnhutviet.detail";
 	public static final String CONTACT = "nhomkinhnhutviet.contact";
 	public static final String ABOUT = "nhomkinhnhutviet.about";

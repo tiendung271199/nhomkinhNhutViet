@@ -18,6 +18,14 @@
     <put-attribute name="body" value="/WEB-INF/views/views/nhomkinhnhutviet/news.jsp" />
   </definition>
 
+  <definition name="nhomkinhnhutviet.news-detail" extends="template.nhomkinhnhutviet" >
+    <put-attribute name="body" value="/WEB-INF/views/views/nhomkinhnhutviet/news-detail.jsp" />
+  </definition>
+
+  <definition name="nhomkinhnhutviet.product" extends="template.nhomkinhnhutviet" >
+    <put-attribute name="body" value="/WEB-INF/views/views/nhomkinhnhutviet/product.jsp" />
+  </definition>
+
   <definition name="nhomkinhnhutviet.detail" extends="template.nhomkinhnhutviet" >
     <put-attribute name="body" value="/WEB-INF/views/views/nhomkinhnhutviet/detail.jsp" />
   </definition>

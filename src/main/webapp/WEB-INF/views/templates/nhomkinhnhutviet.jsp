@@ -23,6 +23,12 @@
     <link rel="stylesheet" href="${contextPath}/assets/css/custom.css">
 </head>
 
+<c:url value="/" var="urlIndex" scope="application"></c:url>
+<c:url value="/tin-tuc" var="urlNews" scope="application"></c:url>
+<c:url value="/san-pham" var="urlProduct" scope="application"></c:url>
+<c:url value="/lien-he" var="urlContact" scope="application"></c:url>
+<c:url value="/doanh-nghiep" var="urlAbout" scope="application"></c:url>
+
 <body>
     <tiles:insertAttribute name="header"></tiles:insertAttribute>
     <tiles:insertAttribute name="body"></tiles:insertAttribute>
