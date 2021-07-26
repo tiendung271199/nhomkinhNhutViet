@@ -4,8 +4,11 @@ public class URLConstant {
 
 	public static final String URL_INDEX = "";
 	public static final String URL_NEWS = "tin-tuc";
+<<<<<<< HEAD
 	public static final String URL_NEWS_DETAIL = "chi-tiet-tin-tuc";
 	public static final String URL_PRODUCT = "san-pham";
+=======
+>>>>>>> 0a3777e43ec731f00095092d6b7ee930eb3102cf
 	public static final String URL_DETAIL = "chi-tiet";
 	public static final String URL_CONTACT = "lien-he";
 	public static final String URL_ABOUT = "doanh-nghiep";
