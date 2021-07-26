@@ -14,8 +14,6 @@ public class NhomKinhController {
 		return ViewNameConstant.INDEX;
 	}
 
-<<<<<<< HEAD
-=======
 	@GetMapping(URLConstant.URL_NEWS)
 	public String news() {
 		return ViewNameConstant.NEWS;
@@ -26,18 +24,14 @@ public class NhomKinhController {
 		return ViewNameConstant.DETAIL;
 	}
 
->>>>>>> 0a3777e43ec731f00095092d6b7ee930eb3102cf
 	@GetMapping(URLConstant.URL_ABOUT)
 	public String about() {
 		return ViewNameConstant.ABOUT;
 	}
 
-<<<<<<< HEAD
-=======
 	@GetMapping(URLConstant.URL_CONTACT)
 	public String contact() {
 		return ViewNameConstant.CONTACT;
 	}
 
->>>>>>> 0a3777e43ec731f00095092d6b7ee930eb3102cf
 }
