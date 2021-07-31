@@ -8,7 +8,7 @@ public class DemoController {
 
 	@GetMapping("demo")
 	public String demo() {
-		return "nhomkinhnhutviet.index";
+		return "views/demo";
 	}
 	
 }

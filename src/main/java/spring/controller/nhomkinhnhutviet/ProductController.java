@@ -14,9 +14,9 @@ public class ProductController {
 		return ViewNameConstant.PRODUCT;
 	}
 
-	@GetMapping(URLConstant.URL_DETAIL)
+	@GetMapping(URLConstant.URL_PRODUCT_DETAIL)
 	public String detail() {
-		return ViewNameConstant.DETAIL;
+		return ViewNameConstant.PRODUCT_DETAIL;
 	}
-	
+
 }
