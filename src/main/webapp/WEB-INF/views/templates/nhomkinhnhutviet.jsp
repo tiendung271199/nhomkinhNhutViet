@@ -18,7 +18,7 @@
     <link href="${contextPath}/assets/css/boxicon.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <!-- Load Template CSS -->
-    <link rel="stylesheet" href="${contextPath}/assets/css/templatemo.css">
+    <link rel="stylesheet" href="${contextPath}/assets/css/style.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="${contextPath}/assets/css/custom.css">
 </head>

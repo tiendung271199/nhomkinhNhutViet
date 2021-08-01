@@ -18,21 +18,8 @@
 <section class="container py-5">
 
     <div class="row pt-5">
-        <div class="worksingle-content col-lg-8 m-auto text-left justify-content-center">
-            <h2 class="worksingle-heading h3 pb-3 light-300 typo-space-line">Digital Marketing Service</h2>
-            <p class="worksingle-footer py-3 text-muted light-300">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </p>
-        </div>
-    </div>
-
-    <div class="row justify-content-center pb-4">
-        <div class="col-lg-8">
+        <div class="worksingle-content col-lg-6 m-auto text-left justify-content-center">
+           <div class="col-lg-12">
             <div id="templatemo-slide-link-target" class="card mb-3">
                 <img class="img-fluid border rounded" src="${contextPath}/assets/img/work-slide-04.jpg" alt="Card image cap">
             </div>
@@ -149,7 +136,27 @@
                 </div>
             </div>
         </div>
+        </div>
+        <div class="worksingle-content col-lg-6 text-left justify-content-center">
+            <h2 class="worksingle-heading h3 pb-3 light-300 typo-space-line">Digital Marketing Service</h2>
+            <p class="worksingle-footer py-3 text-muted light-300">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+            <div>
+            	<span class="worksingle-heading h6 pb-3 light-100 typo-space-line-2"> 
+            	Danh mục: Danh mục 1
+            	 </span>
+            </div>
+            
+        </div>
     </div>
+
+	<hr />
 
     <div class="row">
         <div class="col-md-8 m-auto text-left justify-content-center">
@@ -181,14 +188,6 @@
     </div>
 
 
-    <div class="row justify-content-center">
-        <div class="col-lg-8 pt-4 pb-4">
-            <div class="ratio ratio-16x9">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1z--ZRS5x5U"></iframe>
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1z--ZRS5x5U"></iframe>
-            </div>
-        </div>
-    </div>
 
     <div class="row justify-content-center">
         <div class="col-lg-8 ml-auto mr-auto pt-3 pb-4">
